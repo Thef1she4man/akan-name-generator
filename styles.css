@@ -42,7 +42,7 @@ label {
 
 input[type="date"],
 input[type="radio"] {
-    margin: 5px 0;
+    margin: 1px 0;
 }
 
 button {
