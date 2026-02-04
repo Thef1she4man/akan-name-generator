@@ -9,7 +9,7 @@ Aaron Michael Mitoko
 2. Open `index.html` in a browser.
 
 ## Live Site
-[GitHub Pages Link]()
+[GitHub Pages Link](https://thef1she4man.github.io/akan-name-generator/)
 
 ## Technologies Used
 - HTML
