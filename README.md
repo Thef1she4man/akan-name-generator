@@ -10,7 +10,7 @@ Aaron Michael Mitoko
 
 ## Live Site
 [GitHub Pages Link]()
-git
+
 ## Technologies Used
 - HTML
 - CSS
