@@ -11,7 +11,9 @@
 <body>
     <div class="container">
         <h1>Akan Name Generator</h1>
-        <p>This is a simple web application that calculates the day of the week a user was born and assigns them an Akan name based on their gender.<br><br>Akan names come from Ghanaian culture, where children are named based on the day they were born.</p>
+        <p>This is a simple web application that calculates the day of the week a user was born and assigns them an Akan
+            name based on their gender.<br><br>Akan names come from Ghanaian culture, where children are named based on
+            the day they were born.</p>
         <p>Enter your birthdate and gender to discover your Akan name based on Ghanaian culture!</p>
 
         <form id="akanForm">
@@ -19,10 +21,12 @@
             <input type="date" id="birthdate" required>
 
             <label>Gender:</label>
-            <input type="radio" id="male" name="gender" value="male" required checked>
-            <label for="male">Male</label>
-            <input type="radio" id="female" name="gender" value="female" required>
-            <label for="female">Female</label>
+            <div class="gender-options">
+                <input type="radio" id="male" name="gender" value="male" required checked>
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="gender" value="female" required>
+                <label for="female">Female</label>
+            </div>
 
             <button type="submit">Get My Akan Name</button>
         </form>
