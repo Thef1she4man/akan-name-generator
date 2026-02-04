@@ -1,6 +1,6 @@
-// Akan names arrays: Index 0 = Sunday, 1 = Monday, ..., 6 = Saturday
 const maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 const femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+
 
 document.getElementById('akanForm').addEventListener('submit', function (event) {
     event.preventDefault();
